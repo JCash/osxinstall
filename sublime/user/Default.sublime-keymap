@@ -1,0 +1,10 @@
+[
+	{
+		"keys": ["super+r"],
+		"command": "shell_command",
+		"args": {
+			"command": "(cd ~/Documents/work/minosaur && ./build/Minosaur)",
+			"panel": true
+		}
+	}
+]

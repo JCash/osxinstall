@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "cd ${project_path:${folder}} && ./build.sh 2>&1 | ansifilter",
+    "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+    "syntax": "Packages/Makefile/Make Output.sublime-syntax",
+}

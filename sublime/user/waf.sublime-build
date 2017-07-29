@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "./waf",
+	"working_dir": "$folder",
+	"file_regex": "\\.\\.\\/(.+?):(\\d+):(\\d+)"
+}
